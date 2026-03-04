@@ -13,7 +13,8 @@ const about=function(){
 about();
 
 //immediately invoked functions expressions--run immediately when called--
-(function(){
+(function add(n1,n2){
+
     console.log("Welcome to the world of great innovation")
 })()
 
